@@ -4,7 +4,7 @@ import os
 
 bot = cmds.Bot(command_prefix='')
 #cmds.Bot means that will be considered as disc Bot
-token = 'ความลับอิอิ'
+token = 'บอกก็ได้'
 
 @bot.event
 #event = discord's method whis is a decorator/clothe
