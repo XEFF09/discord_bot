@@ -46,7 +46,8 @@ class routine(cmds.Cog):
             await ctx.send(embed=box02)
 
 def setup(bot):
-    bot.add_cog(routine(bot))  
+    bot.add_cog(routine(bot))
+
                 
 
             
